@@ -1,0 +1,44 @@
+.button {
+  background-color: rgb(29, 141, 149);
+  border: 1px solid var(--blue);
+  border-radius: 0.5rem;
+  color:black;
+  font-size: 1.1rem;
+  margin-left: 1.5rem;
+  margin-top: .5rem;
+  padding: 0.2rem 1rem;
+  transition: all 0.4s ease-out;
+  outline: none;
+}
+
+.button:hover {
+  background-color:yellow;
+}
+.button_center {
+  display: flex;
+  justify-content: center;
+}
+.button_polls {
+  background-color: rgb(29, 141, 149);
+  border: 1px solid var(--blue);
+  border-radius: 0.5rem;
+  color:black;
+  font-size: 1.2rem;
+  margin-left: .5rem;
+  margin-bottom: 1rem;
+  letter-spacing: .3rem;
+  border-spacing: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding: 0.2rem 1rem;
+  transition: all 0.4s ease-out;
+  text-transform: uppercase;
+  outline: none;
+}
+
+.button_polls:hover {
+  background-color: cornflowerblue;
+}
+.polls: {
+  margin: 0 0 0 0;
+}

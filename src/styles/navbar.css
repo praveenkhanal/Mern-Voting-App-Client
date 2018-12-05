@@ -1,0 +1,37 @@
+.navbar {
+background-color: aquamarine;
+padding: 1.5rem 1rem;
+
+}
+.navbar-brand {
+  background-color: var(--light);
+  color: var(--blue);
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.navbar-brand:hover{
+  color: #f85b00;
+}
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navbar-item {
+  color:purple;
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.navbar-item:hover{
+  color: #f85b00;
+}
+.navbar-user {
+  margin-top: 0.5rem;
+  text-align: right;
+  color:rgb(18, 0, 100);
+}
