@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const host = 'http://localhost:4000/api';
+const host = 'https://mern-voting-server.herokuapp.com/api';
 
 export const setToken = token => {
   if (token) {
