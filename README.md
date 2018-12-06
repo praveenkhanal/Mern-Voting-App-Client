@@ -2,23 +2,23 @@ Application live at: https://mern-voting-client.herokuapp.com/
 
 ## Technologies Used
 
-Nodejs
-React
-Redux
-bcryptjs
-body-parser
-cors
-dotenv
-express
-jsonwebtoken
-mongoose
-axios
-chart.js
-jwt-decode
-react-dom
-react-router-dom
-redux-thunk
-react-chartjs-2
+Nodejs,
+React,
+Redux,
+bcryptjs,
+body-parser,
+cors,
+dotenv,
+express,
+jsonwebtoken,
+mongoose,
+axios,
+chart.js,
+jwt-decode,
+react-dom,
+react-router-dom,
+redux-thunk,
+react-chartjs-2,
 Heroku
 
 
