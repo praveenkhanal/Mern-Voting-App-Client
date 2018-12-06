@@ -12,6 +12,10 @@ Once you are an Authenticated User:
 
 Create your own polls.
 
+Vote in your own polls.
+
+Vote in polls created by other user.
+
 Keep your polls and revisit to access them.
 
 See the Aggregated results of your Polls.
