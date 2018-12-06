@@ -6,9 +6,10 @@
 body {
   background-color: #00b3b39c;
   background: url("https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
-  background-size: 100%;
+  background-size: cover;
   background-position:top;
-  background: cover;
+  /* background: cover; */
+  background-repeat: no-repeat;
   max-height: 100%;
  }
  
