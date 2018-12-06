@@ -2,21 +2,24 @@ Application live at: https://mern-voting-client.herokuapp.com/
 
 
 ## User Stories:
+If you are UnAuthenticated user:
+
+you can see everyone's polls.
+
+you can see the results of polls in chart form.
+
 Once you are an Authenticated User:
+
+Create your own polls.
 
 Keep your polls and revisit to access them.
 
 See the Aggregated results of your Polls.
 
-Create and Delete polls as and when needed.
+Delete polls as and when needed.
 
 Create limitless number of possible options to chose.
 
-If you are unauthenticated user:
-
-you can see everyone's polls.
-
-you can see the results of polls in chart form.
 
 
 
