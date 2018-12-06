@@ -1,15 +1,11 @@
 Application live at: https://mern-voting-client.herokuapp.com/
 
 ## Technologies Used
+MERN FULL STACk: MongoDB, Express.js, Reactjs/Reduxjs and Node.js.
 
-Nodejs,
-
-React,
-
-Redux,
+other dependencies and library used:
 
 bcryptjs,
-
 body-parser,
 cors,
 dotenv,
@@ -23,7 +19,9 @@ react-dom,
 react-router-dom,
 redux-thunk,
 react-chartjs-2,
-Heroku
+
+Heroku for deplyoment
+
 
 
 ## Available Scripts
