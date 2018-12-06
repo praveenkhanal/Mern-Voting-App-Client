@@ -5,8 +5,11 @@ Application live at: https://mern-voting-client.herokuapp.com/
 Nodejs,
 
 React,
+
 Redux,
+
 bcryptjs,
+
 body-parser,
 cors,
 dotenv,
