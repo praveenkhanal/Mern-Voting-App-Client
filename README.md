@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Application live at: https://mern-voting-client.herokuapp.com/
+
+## Technologies Used
+
+Nodejs
+React
+Redux
+bcryptjs
+body-parser
+cors
+dotenv
+express
+jsonwebtoken
+mongoose
+axios
+chart.js
+jwt-decode
+react-dom
+react-router-dom
+redux-thunk
+react-chartjs-2
+Heroku
+
 
 ## Available Scripts
 
@@ -42,3 +64,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
