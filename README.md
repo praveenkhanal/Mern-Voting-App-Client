@@ -30,7 +30,7 @@ See the Aggregated results of your Polls.
 
 Delete polls as and when needed.
 
-Create limitless number of possible options to chose.
+Create limitless number of possible options to choose.
 
 
 
