@@ -2,13 +2,14 @@ Application live at: https://mern-voting-client.herokuapp.com/
 
 
 ## User Stories:
-If you are UnAuthenticated user:
+
+### If you are UnAuthenticated user:
 
 you can see everyone's polls.
 
 you can see the results of polls in chart form.
 
-Once you are an Authenticated User:
+### Once you are an Authenticated User:
 
 Create your own polls.
 
