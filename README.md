@@ -57,7 +57,9 @@ react-chartjs-2,
 
 Heroku for deplyoment
 
-
+## Future Features:
+Wanted to work with facebook Api
+wanted to have better front end and UI.
 
 ## Available Scripts
 
