@@ -3,6 +3,7 @@ Application live at: https://mern-voting-client.herokuapp.com/
 ## Technologies Used
 
 Nodejs,
+
 React,
 Redux,
 bcryptjs,
