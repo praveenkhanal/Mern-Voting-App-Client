@@ -5,11 +5,10 @@
 }
 body {
   background-color: #00b3b39c;
-  background: url("https://www.tyrol.tl/images/cms/754x435/A_TirolMitte_Polling.jpg");
+  background: url("https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
   background-size: 100%;
   background-position:top;
   background: cover;
-  overflow: hidden;
-  
+  max-height: 100%;
  }
  
